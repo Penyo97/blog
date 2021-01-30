@@ -1,0 +1,64 @@
+.navbar{
+    background-color: #bdb2ff !important;
+}
+.nav-link{
+    color: #fdffb6 !important;
+}
+.nav-link:hover{
+    color:#caffbf !important;
+}
+.form{
+    margin-top: 60px;
+    background-color: #bdb2ff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.btn{
+    background-color: #fdffb6 !important;
+    border-color: #fdffb6 !important;
+    color: #bdb2ff !important;
+}
+.btn:hover{
+    background-color: #caffbf !important;
+    border-color: #caffbf !important;
+    color: #bdb2ff !important;
+}
+.cream_img{
+    height: 150px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.profimg{
+    padding: 5px;
+    border-radius: 50%;
+    border: 2px solid #fdffb6;
+}
+.headerimg{
+    border-radius: 50%;
+    border: 2px solid #fdffb6;
+}
+.input{
+    background-color: #bdb2ff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.posts{
+    margin-top: 20px;
+    background-color: #bdb2ff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.page{
+background-color: #bdb2ff !important;
+border: #bdb2ff !important;
+color: #fdffb6 !important;
+}
+.form-control:focus {
+    border-color: #fdffb6;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px #fdffb6;
+  }
+
+body{
+    background: linear-gradient(to bottom,#fdffb6,#caffbf);
+}
